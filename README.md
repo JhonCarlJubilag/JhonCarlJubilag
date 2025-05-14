@@ -28,10 +28,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JhonCarlJubilag/JhonCarlJubilag/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Socials:</h2>
 
 ###
